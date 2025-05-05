@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shopify Storefront
 
 A React-based e-commerce application that simulates a Shopify storefront with a wishlist feature. This project demonstrates the implementation of a modern e-commerce interface with product browsing and wishlist functionality.
@@ -126,3 +127,6 @@ Builds the app for production to the `build` folder.
 
 - Product images from [Unsplash](https://unsplash.com)
 - Icons from [Material-UI Icons](https://mui.com/material-ui/material-icons/)
+=======
+# Shopify
+>>>>>>> 0f109a244b02d558b77296d2bd8755cc25bbe646
